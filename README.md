@@ -1,4 +1,4 @@
-#SuperMercadoProjeto
+SuperMercadoProjeto
 
 Projeto simples em Java para gerenciamento de produtos, utilizando conceitos de Programação Orientada a Objetos.
 
